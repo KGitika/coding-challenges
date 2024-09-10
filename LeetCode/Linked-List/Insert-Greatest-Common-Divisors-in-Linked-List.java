@@ -1,5 +1,5 @@
 // Problem: Insert Greatest Common Divisors in Linked List
-// URL: https://leetcode.com/problems/Insert Greatest Common Divisors in Linked List/
+// URL: https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list
 
     // Time complexity: 0(n.log(min(a,b)));
     // Space Complexity: O(1);
