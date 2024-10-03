@@ -1,4 +1,4 @@
-/ Includes arrays, hashtable, and sorting;
+// Includes arrays, hashtable, and sorting;
 // Time complexity: O(m+n);
 // Space complexity: O(n);
 
