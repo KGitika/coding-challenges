@@ -2,7 +2,7 @@
 
 
 // Problem: check-if-array-pairs-are-divisible-by-k
-// URL: https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/v
+// URL: https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/
 
 // Time complexity: O(n);
 // Space complexity: O(k);

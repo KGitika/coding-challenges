@@ -1,5 +1,6 @@
-import java.util.HashSet;
-import java.util.Set;
+// Problem: walking-robot-simulation
+// URL: https://leetcode.com/problems/walking-robot-simulation/
+
 
 // Includes arrays, hashset, and simulation;
 // Time complexity: O(m+n);
