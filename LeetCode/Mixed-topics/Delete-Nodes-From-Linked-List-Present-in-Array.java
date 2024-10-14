@@ -1,3 +1,6 @@
+// Problem: Delete-Nodes-From-Linked-List-Present-in-Array
+// URL: https://leetcode.com/problems/Delete-Nodes-From-Linked-List-Present-in-Array/
+
 import java.util.HashSet;
 import java.util.Set;
 
