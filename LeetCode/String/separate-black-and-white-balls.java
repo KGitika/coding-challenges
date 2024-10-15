@@ -1,7 +1,6 @@
 // Problem: separate-black-and-white-balls
 // URL: https://leetcode.com/problems/separate-black-and-white-balls/
 
-
 // Time complexity: O(n);
 // Space complexity: O(1);
 
