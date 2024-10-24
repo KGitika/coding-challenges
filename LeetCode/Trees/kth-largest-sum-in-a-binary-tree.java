@@ -40,7 +40,6 @@ class Solution {
 
 // Approach 1:  Level Order Traversal + Min Heap
 
-
 class Solution {
 
     public long kthLargestLevelSum(TreeNode root, int k) {
