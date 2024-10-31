@@ -1,5 +1,5 @@
 // Problem: Cousins in Binary Tree II
-// URL: https://leetcode.com/cousins-in-binary-tree-ii/editoria/
+// URL: https://leetcode.com/cousins-in-binary-tree-ii
 
 class Solution {
 
